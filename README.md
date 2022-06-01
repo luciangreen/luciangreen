@@ -1,17 +1,13 @@
 ### Hi there 👋
 
-<!--
-**luciangreen/luciangreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a new type checker for List Prolog Interpreter.
+- 🌱 I’m currently planning a new compiler.
+- 👯 I’m looking to collaborate on testing development materials.
+- 🤔 I’m looking for help with an online Prolog editor.
+- 💬 Ask me about my List Prolog ecosystem
+- 📫 How to reach me: <a href="mailto:luciangreen@lucianacademy.com">luciangreen@lucianacademy.com</a>
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I would like to teach computer science.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+![airballoon-1162340](https://user-images.githubusercontent.com/15845542/171387530-0502b78f-fd07-4aae-9e81-8eed72918247.jpg)
