@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a new type checker for List Prolog Interpreter.
+- 🔭 I’m currently working on a new compiler lucianpl.
 - 🌱 I’m currently planning a new compiler.
 - 👯 I’m looking to collaborate on testing development materials.
 - 🤔 I’m looking for help with an online Prolog editor.
