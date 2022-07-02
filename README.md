@@ -9,6 +9,10 @@
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: I would like to teach computer science.
 
+Sites:
+https://dev.to/luciangreen
+https://lucianpedia.fandom.com/wiki/Computer_Science
+https://www.youtube.com/channel/UCWpmrriB-XGpWWpWgReqluQ?view_as=subscriber
 
 ![airballoon-1162340](https://user-images.githubusercontent.com/15845542/171387530-0502b78f-fd07-4aae-9e81-8eed72918247.jpg)
 Image by freeimages.com/stilok
